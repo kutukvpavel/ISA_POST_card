@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {ISAPostCard.vo ISAPostCard_v.sdo}}
+	{{"Fast Model"} {ISAPostCard_fast.vo ISAPostCard_v_fast.sdo}}
+}

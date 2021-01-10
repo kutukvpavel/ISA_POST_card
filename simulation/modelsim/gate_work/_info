@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Doc\Quartus Projects\isa post card\simulation\modelsim
+vISAPostCard
+!i10b 1
+!s100 =Z5hj5=foBY]HSgaE`YnY1
+I63@MQUZJ1TBNIXZAW648M3
+Vm;G7BgLXPT9SYchTfIe;l0
+Z1 dE:\Doc\Quartus Projects\isa post card\simulation\modelsim
+w1579650613
+8ISAPostCard.vo
+FISAPostCard.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1579650632.950000
+!s107 ISAPostCard.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ISAPostCard.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+n@i@s@a@post@card

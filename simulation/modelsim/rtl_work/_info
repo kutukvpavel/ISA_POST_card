@@ -1,0 +1,92 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Doc\Quartus Projects\isa post card\simulation\modelsim
+vBCD_Decoder
+I3?XjTY_h`AXGRFeRhDc6E1
+VL:mP]TNSIOzNYUWDleWWG3
+Z1 dE:\Doc\Quartus Projects\isa post card\simulation\modelsim
+Z2 w1577921349
+Z3 8E:/Doc/Quartus Projects/isa post card/ISAPostCard.v
+Z4 FE:/Doc/Quartus Projects/isa post card/ISAPostCard.v
+L0 88
+Z5 OV;L;10.1d;51
+r1
+31
+Z6 !s108 1577921739.033000
+Z7 !s107 E:/Doc/Quartus Projects/isa post card/ISAPostCard.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Doc/Quartus Projects/isa post card|E:/Doc/Quartus Projects/isa post card/ISAPostCard.v|
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work {+incdir+E:/Doc/Quartus Projects/isa post card} -O0
+n@b@c@d_@decoder
+!i10b 1
+!s100 P8za0;]bY<zzYaPOmLm991
+!s85 0
+!s101 -O0
+vISA_Port80h
+IClN:368<AA8]DIV;1;;:>3
+Vz8o]iHYQ6zjQ`Y`H`U2PN0
+R1
+R2
+R3
+R4
+L0 48
+R5
+r1
+31
+R6
+R7
+R8
+R9
+R10
+n@i@s@a_@port80h
+!i10b 1
+!s100 IH5VA]hhV8nc:E2SD9XVj3
+!s85 0
+!s101 -O0
+vISAPostCard
+I:]Ufm_HJ7VRVYFLOdGT9g1
+V>``PQC=k=dSQ8h4MFTKkz1
+R1
+R2
+R3
+R4
+L0 1
+R5
+r1
+31
+R6
+R7
+R8
+R9
+R10
+n@i@s@a@post@card
+!i10b 1
+!s100 @?1><Qi@FP4ngaoAQoWP31
+!s85 0
+!s101 -O0
+vPostSequenceMemory
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 ofYYQ=l58B8o4SfcP_Gn10
+I]BQ]E_SHg9R;`Yl>61z6b1
+V2MXWBG`33nQl6K[]WMnM`1
+!s105 ISAPostCard_sv_unit
+S1
+R1
+w1577921548
+8E:/Doc/Quartus Projects/isa post card/ISAPostCard.sv
+FE:/Doc/Quartus Projects/isa post card/ISAPostCard.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1577921739.365000
+!s107 E:/Doc/Quartus Projects/isa post card/ISAPostCard.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/Doc/Quartus Projects/isa post card|E:/Doc/Quartus Projects/isa post card/ISAPostCard.sv|
+!s101 -O0
+o-sv -work work -O0
+!s92 -sv -work work {+incdir+E:/Doc/Quartus Projects/isa post card} -O0
+n@post@sequence@memory
